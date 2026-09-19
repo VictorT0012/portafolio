@@ -416,6 +416,7 @@ p { margin: 0; color: var(--text-muted); }
 .mini-card .tag-row { font-size: 0.7rem; }
 .mini-card .card-link { display: inline-block; margin-bottom: 14px; font-size: 0.8rem; color: var(--accent); }
 .mini-card .card-link:hover { text-decoration: underline; }
+.cert-grid { margin-top: 36px; }
 
 .is-hidden { display: none !important; }
 
